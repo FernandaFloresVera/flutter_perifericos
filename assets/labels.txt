@@ -1,0 +1,8 @@
+audifonos
+disco_duro
+impresora
+microfono
+monitor
+mouse
+teclado
+usb
